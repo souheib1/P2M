@@ -21,8 +21,12 @@
 
 ## Used Sentinel-2 tiles
 
-The Sentinel-2 tiles used for training and testing and fine-tuning are listed in data folder:
+The Sentinel-2 tiles used for training and testing and fine-tuning are listed in the folder named #data 
 
 
 They can be downloaded from the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/).
+
+Have fun!!
+
+
 
