@@ -28,5 +28,8 @@ They can be downloaded from the [Copernicus Open Access Hub](https://scihub.cope
 
 Have fun!!
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5229a1371a0f82203f4a2207b5a6d61e7a2b8d79
