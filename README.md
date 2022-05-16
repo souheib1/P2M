@@ -27,9 +27,3 @@ The Sentinel-2 tiles used for training and testing and fine-tuning are listed in
 They can be downloaded from the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/).
 
 Have fun!!
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 5229a1371a0f82203f4a2207b5a6d61e7a2b8d79
